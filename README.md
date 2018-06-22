@@ -22,6 +22,6 @@ https://github.com/xlano/vue-js.com
 
 
 ## 效果展示
-http://vuecommunity.lenmx.com
+http://vuecommunity.lenmx.com <br />
 ![code](./static/images/qrcode.png)
 
