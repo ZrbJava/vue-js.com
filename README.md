@@ -1,21 +1,27 @@
 # vue-js.com
 
-> A Vue.js project
+> 初学vuejs，尝试重构vue社区，此项目参照了 bailicangdu 的 vue2-elem（https://github.com/bailicangdu/vue2-elm） 项目，谢谢 @bailicangdu
 
-## Build Setup
+## 技术栈
+vue2 + vuex + vue-router + webpack + ES6/7 + fetch 
 
+## 运行项目
 ``` bash
-# install dependencies
+
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## github地址
+https://github.com/xlano/vue-js.com
+
+
+## 效果展示
+http://vuecommunity.lenmx.com
+![code](./static/images/qrcode.png)
+

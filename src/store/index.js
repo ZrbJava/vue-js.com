@@ -12,7 +12,4 @@ export default new Vuex.Store({
     getters,
     actions,
     mutations,
-    // modules: {
-    //     appLayout,
-    // }
 })

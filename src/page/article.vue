@@ -38,7 +38,7 @@
     Tag,
     Icon,
     Button,
-    Toast
+    Toast,
   } from 'vant'
 
   Vue.use(List).use(Cell).use(Tag).use(Icon).use(Button).use(Toast)
